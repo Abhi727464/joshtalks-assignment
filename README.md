@@ -27,10 +27,10 @@ This **Task Management Task** is a simple tool for managing tasks, allowing user
 
 ## Features
 
-- **Task Management**: user can add task by typing title, description and priority. Data will be stored in local storage.
-- **Table**: user can see his tasks in the table. user can edit, mark as complete or pending and delete tasks by clicking on button in the row.
-- User can sort tasks by clicking on priority column in the table.
-- User can search tasks by search input.
+- **Task Creation**: Users can add tasks by providing a title, description, and priority. Tasks are saved in local storage for persistence.
+- **Task Management**: Users can view all tasks in a table, with options to edit, delete, and change the status (mark as complete or pending) of each task.
+- **Sorting**:Tasks can be sorted by priority by clicking the priority column header in the table.
+- **Search Functionality**:A search input allows users to quickly find tasks based on their titles.
 
 ## Technologies Used
 
@@ -38,3 +38,9 @@ This **Task Management Task** is a simple tool for managing tasks, allowing user
 - **HTML5 and CSS3**: For structuring and styling the web page.
 - **JavaScript (ES6+)**: Logic implementation.
 - **React Hooks**: For managing state and lifecycle methods.
+
+## Usage
+
+- **Add Tasks**: Enter task details (title, description, priority) and click "Add Task."
+- **Manage Tasks**: Use the buttons within each row of the table to edit, delete, or update the task status.
+- **Search and Sort**: Filter tasks using the search bar or sort tasks by clicking on the column headers.
