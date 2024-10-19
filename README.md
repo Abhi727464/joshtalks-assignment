@@ -2,6 +2,8 @@
 
 # Task Management Project
 
+[Live Hosted Link 🔴 ](https://abhay-joshtalks-assignment.netlify.app/)
+
 ## Overview
 
 This **Task Management Task** is a simple tool for managing tasks, allowing users to add, search, edit, mark as pending or completed and delete their tasks.
